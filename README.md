@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I am ChrisLee, a leaner studying Data Science and Artificial Intelligence. ☺️
 
-You can find my profile at [ChrisLee-Codes.github.io](https://chrislee-codes.github.io/). 💥
+You can find my profile at [https://chrislee.top/](https://chrislee.top/). 💥
